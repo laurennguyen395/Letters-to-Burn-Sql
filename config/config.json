@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "YOUR USERNAME HERE",
+    "username": "laurennguyen395",
     "password": "YOUR PASSWORD HERE",
-    "database": "gamelib",
+    "database": "letters-to-burn",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
