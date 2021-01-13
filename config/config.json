@@ -7,16 +7,16 @@
     "dialect": "postgres"
   },
   "test": {
-    "username": "root",
+    "username": "laurennguyen395",
     "password": null,
-    "database": "database_test",
+    "database": "letters-to-burn",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
-    "username": "root",
+    "username": "laurennguyen395",
     "password": null,
-    "database": "database_production",
+    "database": "letters-to-burn",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
